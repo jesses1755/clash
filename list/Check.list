@@ -80,3 +80,7 @@ DOMAIN-SUFFIX,flowercloud.com
 DOMAIN-SUFFIX,mmvh02.com
 
 DOMAIN-SUFFIX,acek-cdn.com
+
+# steam
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steampowered.com
